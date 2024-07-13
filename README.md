@@ -8,7 +8,7 @@
 This Unity game features an infinite number of falling dog face sprites that the player must dodge while collecting starfish coins. The player controls a charming cat character, adding a playful twist to the classic falling block game genre.
 
 ## Game Features
-- 🎮 **Infinite Falling Dog Faces:** Continuously falling dog face sprites create a dynamic and challenging gameplay experience, and its speed increases over time.
+- 🎮 **Infinite Falling Dog Faces:** Continuously falling dog face sprites create a dynamic and challenging gameplay experience, and their speed increases over time.
 - 🐱 **Player Character:** A cute cat that players control to dodge the falling dog faces and collect coins.
 - 🌟 **Collectibles:** Starfish coins that add to the challenge and fun of the game.
 
@@ -37,5 +37,6 @@ To play **Falling Dogs**, follow these steps:
 
 ## Feedback and Contributions
 I welcome any feedback and contributions! Feel free to open an issue or submit a pull request in the repository.
+Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/naveenn82005) or via email at [navin82005@gmail.com](mailto:navin82005@gmail.com).
 
 Thank you for checking out **Falling Dogs**! Enjoy the game! 🐾🎮
