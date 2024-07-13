@@ -23,7 +23,7 @@ To play Falling Dogs, follow these steps:
 3. Build and run the game on your preferred platform.
 
 ## Screenshots
-![Gameplay Screenshot](https://github.com/Navin82005/TempRepo/blob/main/Falling%20Dogs/fallingdogs.jpg) ![Gameplay Screenshot](https://github.com/Navin82005/TempRepo/blob/main/Falling%20Dogs/game-over-screen.jpg)
+![Gameplay Screenshot](https://github.com/Navin82005/TempRepo/blob/main/Falling%20Dogs/fallingdogs.jpg) ![Gameplay Screenshot](https://github.com/Navin82005/TempRepo/blob/main/Falling%20Dogs/game%20over%20screen.jpg)
 
 ## Credits
 - **Developer:** Naveen N.
