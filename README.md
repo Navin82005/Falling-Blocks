@@ -41,5 +41,7 @@ Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/naveenn82
 
 Thank you for checking out **Falling Dogs**! Enjoy the game! 🐾🎮
 
+## Stats
+![Alt](https://repobeats.axiom.co/api/embed/b0b61da2c7cca438fce16677a3979effc69a27ce.svg "Repobeats analytics image")
 
 Get your own color pallate at : [Coolors.Co](https://coolors.co/?ref=6559c82241a7a6000bf5e09a)
