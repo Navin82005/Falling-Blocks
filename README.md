@@ -40,3 +40,6 @@ I welcome any feedback and contributions! Feel free to open an issue or submit a
 Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/naveenn82005) or via email at [navin82005@gmail.com](mailto:navin82005@gmail.com).
 
 Thank you for checking out **Falling Dogs**! Enjoy the game! 🐾🎮
+
+
+Get your own color pallate at : [Coolors.Co](https://coolors.co/?ref=6559c82241a7a6000bf5e09a)
